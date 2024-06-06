@@ -27,4 +27,3 @@ Note
 
 Disclaimer
 While the generated application files aim to meet the user's requirements, manual review and adjustment may still be necessary for complete functionality.
-1
